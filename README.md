@@ -6,6 +6,7 @@
 <p>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/python.png" alt="Python" height="54"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/postgresql.png" alt="Postgresql" height="54"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/pandas.png" alt="Pandas" height="54"/>
 </p>
 
 <!--
