@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1><b>Hi, my name is Pavel!</b><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+    <h1><b>Hi, my name is Pavel!</b><img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/Hi.gif" height="32"/></h1>
     <h3><b><i>I've been doing analytics for almost 20 years, but my profession had nothing to do with IT.<br/>At the moment, I have decided to change the type of my activity and am studying in Netology (Russia) under the program of the professional retraining program, in the specialty «Data Scientist: from scratch to middle»</i></b></h3>
 </div>
 
