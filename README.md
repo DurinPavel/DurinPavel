@@ -4,11 +4,13 @@
 </div>
 <p><b><i>At the moment I am able to work with:<br/>- languages and libraries:</i></b></p>
 <p>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/python.png" alt="Python" height="54"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/postgresql.png" alt="Postgresql" height="54"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/pandas.png" alt="Pandas" height="54"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/numpy.png" alt="NumPy" height="54"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" height="54"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgresql" height="54"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" height="54"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" height="54"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/matplotlib.png" alt="Matplotlib" height="54"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" height="54"/>
+          
 </p>
 
 <!--
