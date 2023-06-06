@@ -9,6 +9,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" height="50"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/matplotlib.png" alt="Matplotlib" height="50"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/scikit-learn.svg" alt="Scikit-learn" height="50"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/selenium.svg" alt="Selenium" height="50"/>
           
 </p>
