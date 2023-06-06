@@ -8,6 +8,7 @@
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/postgresql.png" alt="Postgresql" height="54"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/pandas.png" alt="Pandas" height="54"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/numpy.png" alt="NumPy" height="54"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/matplotlib.png" alt="Matplotlib" height="54"/>
 </p>
 
 <!--
