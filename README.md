@@ -2,7 +2,7 @@
     <h1><b>Hi, my name is Pavel!</b><img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/hi.gif" height="32"/></h1>
     <h3><b><i>I've been doing analytics for almost 20 years, but my profession had nothing to do with IT.<br/>At the moment, I have decided to change the type of my activity and am studying in Netology (Russia) under the program of the professional retraining program, in the specialty «Data Scientist: from scratch to middle»</i></b></h3>
 </div>
-<p><b><i>At the moment I am able to work with:</i></b></p>
+<p><b><i>At the moment I am able to work with:<br/>- languages and libraries:</i></b></p>
 <p>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/python.png" alt="Python" height="54"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/postgresql.png" alt="Postgresql" height="54"/>
