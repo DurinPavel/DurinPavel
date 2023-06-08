@@ -5,7 +5,7 @@
 <p><b><i>At the moment I am able to work with:<br/>- languages and libraries:</i></b></p>
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" height="28"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/postgresql_1.png" alt="Postgresql" height="28"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/postgresql_1.png" height="28"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/pandas1.png" alt="Pandas" height="28"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/numpy.png" alt="NumPy" height="28"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/scikit-learn.png" alt="Scikit-learn" height="28"/>
