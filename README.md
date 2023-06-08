@@ -4,15 +4,15 @@
 </div>
 <p><b><i>At the moment I am able to work with:<br/>- languages and libraries:</i></b></p>
 <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgresql" height="50"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/pandas1.png" alt="Pandas" height="50"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/numpy.png" alt="NumPy" height="50"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/scikit-learn.png" alt="Scikit-learn" height="50"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/beautifulsoup.png" alt="Beautifulsoup" height="50"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/selenium.svg" alt="Selenium" height="50"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/matplotlib.png" alt="Matplotlib" height="50"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/seaborn.png" alt="Seaborn" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" height="25"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgresql" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/pandas1.png" alt="Pandas" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/numpy.png" alt="NumPy" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/scikit-learn.png" alt="Scikit-learn" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/beautifulsoup.png" alt="Beautifulsoup" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/selenium.svg" alt="Selenium" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/matplotlib_1.png" alt="Matplotlib" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/seaborn.png" alt="Seaborn" height="25"/>
           
 </p>
 <p><b><i>- software:</i></b></p>
