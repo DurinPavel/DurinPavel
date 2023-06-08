@@ -6,7 +6,7 @@
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgresql" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" height="50"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/pandas1.png" alt="Pandas" height="50"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/numpy.png" alt="NumPy" height="50"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/scikit-learn.png" alt="Scikit-learn" height="50"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/beautifulsoup.png" alt="Beautifulsoup" height="50"/>
