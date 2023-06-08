@@ -15,6 +15,10 @@
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/seaborn.png" alt="Seaborn" height="50"/>
           
 </p>
+<p><b><i>- software:</i></b></p>
+<p>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/seaborn.png" alt="Seaborn" height="50"/>
+</p>    
 
 <!--
 **DurinPavel/DurinPavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
