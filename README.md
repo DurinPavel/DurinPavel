@@ -22,7 +22,14 @@
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/Anaconda.png" alt="Anaconda" height="25"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/tableau.png" alt="Tableau" height="25"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/knime.png" alt="Knime" height="25"/>
-</p>    
+</p>
+<p><b><i>I have the skills:
+    <br/>- obtaining data from open sources, web scraping;
+    <br/>- building data frames, data cleaning, data processing using python tools;
+    <br/>- working with SQL databases, building queries, as well as creating databases, building schemas, tables, etc.;
+    <br/>- data visualization using the above;
+    <br/>- correlation and regression analysis of data, construction and verification of statistical hypotheses, A-B testing;
+    <br/>- machine learning: solving regression, classification, clustering problems.</i></b></p>
 
 <!--
 **DurinPavel/DurinPavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
