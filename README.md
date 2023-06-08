@@ -21,6 +21,7 @@
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/dbeaver.png" alt="DBeaver" height="25"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/Anaconda.png" alt="Anaconda" height="25"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/tableau.png" alt="Tableau" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/knime.png" alt="Knime" height="25"/>
 </p>    
 
 <!--
