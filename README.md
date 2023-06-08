@@ -12,7 +12,7 @@
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/beautifulsoup.png" alt="Beautifulsoup" height="25"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/selenium_1.png" alt="Selenium" height="25"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/matplotlib_1.png" alt="Matplotlib" height="25"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/seaborn.png" alt="Seaborn" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/seaborn_1.png" alt="Seaborn" height="25"/>
           
 </p>
 <p><b><i>- software:</i></b></p>
