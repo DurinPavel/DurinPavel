@@ -17,7 +17,9 @@
 </p>
 <p><b><i>- software:</i></b></p>
 <p>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/seaborn.png" alt="Seaborn" height="50"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/jupiter.png" alt="Jupyter" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/dbeaver.png" alt="DBeaver" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/Anaconda.png" alt="Anaconda" height="25"/>
 </p>    
 
 <!--
