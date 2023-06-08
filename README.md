@@ -10,7 +10,7 @@
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/numpy.png" alt="NumPy" height="25"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/scikit-learn.png" alt="Scikit-learn" height="25"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/beautifulsoup.png" alt="Beautifulsoup" height="25"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/selenium.svg" alt="Selenium" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/selenium_1.png" alt="Selenium" height="25"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/matplotlib_1.png" alt="Matplotlib" height="25"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/seaborn.png" alt="Seaborn" height="25"/>
           
