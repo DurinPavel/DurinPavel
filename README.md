@@ -4,23 +4,23 @@
 </div>
 <p><b><i>At the moment I am able to work with:<br/>- languages and libraries:</i></b></p>
 <p>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/python_3.png" alt="Python" height="25"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/postgresql_4.png" height="25"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/pandas_3.png" alt="Pandas" height="25"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/numpy_3.png" alt="NumPy" height="25"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/scikit_learn_3.png" alt="Scikit-learn" height="25"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/beautifulsoup_3.png" alt="Beautifulsoup" height="25"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/selenium_3.png" alt="Selenium" height="25"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/matplotlib_3.png" alt="Matplotlib" height="25"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/seaborn_3.png" alt="Seaborn" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/python.png" alt="Python" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/postgresql.png" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/pandas.png" alt="Pandas" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/numpy.png" alt="NumPy" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/scikit_learn.png" alt="Scikit-learn" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/beautifulsoup.png" alt="Beautifulsoup" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/selenium.png" alt="Selenium" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/matplotlib.png" alt="Matplotlib" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/seaborn.png" alt="Seaborn" height="25"/>
 </p>
 <p><b><i>- software:</i></b></p>
 <p>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/jupyter_3.png" alt="Jupyter" height="25"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/dbeaver_3.png" alt="DBeaver" height="25"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/anaconda_3.png" alt="Anaconda" height="25"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/tableau_3.png" alt="Tableau" height="25"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/knime_3.png" alt="Knime" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/jupyter.png" alt="Jupyter" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/dbeaver.png" alt="DBeaver" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/anaconda.png" alt="Anaconda" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/tableau.png" alt="Tableau" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/knime.png" alt="Knime" height="25"/>
 </p>
 <p><b><i>I have the skills:
     <br/>- obtaining data from open sources, web scraping;
