@@ -18,7 +18,7 @@
 <p>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/jupyter.png" alt="Jupyter" height="25"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/colaboratory.png" alt="Colaboratory" height="25"/>
-    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/google_spreadsheet1.png" alt="Google Spreadsheet" height="25"/>
+    <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/google_spreadsheet.png" alt="Google Spreadsheet" height="25"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/dbeaver.png" alt="DBeaver" height="25"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/anaconda.png" alt="Anaconda" height="25"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/tableau.png" alt="Tableau" height="25"/>
