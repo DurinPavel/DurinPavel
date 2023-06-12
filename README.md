@@ -45,7 +45,7 @@
 <h2 align="justify"><i>Below are links to the projects I have completed, 
     by clicking on which you can see their detailed description and code:
 </i></h2>
-<h3><a href="https://github.com/DurinPavel/citylink_parsing/blob/main/README.md" target="_blank">
+<h3><a href="https://github.com/DurinPavel/citylink_parsing#readme" target="_blank">
     - Obtaining data by parsing the Citylink online store
     </a></h3>
 </b></body>
