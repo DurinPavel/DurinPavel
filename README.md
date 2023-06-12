@@ -40,9 +40,9 @@
     <br/>- machine learning: solving regression, classification, clustering problems.
 </i></h3>
 <hr>
-<h2 align="justify"><i>Below are links to the projects I have completed, by clicking on which you can 
-    see a detailed description of them:
-    </i></h2>    
+<h2 align="justify"><i>Below are links to the projects I have completed, 
+    by clicking on which you can see their detailed description and code:
+</i></h2>    
 </b></body>
 
 <!--
