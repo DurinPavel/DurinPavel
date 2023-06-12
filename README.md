@@ -39,9 +39,10 @@
     <br/>- correlation and regression analysis of data, construction and verification of statistical hypotheses, A-B testing;
     <br/>- machine learning: solving regression, classification, clustering problems.
 </i></h3>
-<h2 align="justify">Below are links to the projects I have completed, by clicking on which you can 
+<hr>
+<h2 align="justify"><i>Below are links to the projects I have completed, by clicking on which you can 
     see a detailed description of them:
-</h2>    
+    </i></h2>    
 </b></body>
 
 <!--
