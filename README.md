@@ -8,8 +8,9 @@
         the program of the professional retraining program, in the specialty «Data Scientist: 
         from scratch to middle»
     </i></h2>
-<h3><i>At the moment I am able to work with:<br/>- languages and libraries:
-</i></h3>
+    <hr>
+    <h3><i>At the moment I am able to work with:<br/>- languages and libraries:
+    </i></h3>
 <p>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/python.png" alt="Python" height="25"/>
     <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/postgresql.png" height="25"/>
