@@ -54,10 +54,16 @@
 <h2 align="justify"><i>Below are links to the projects I have completed, 
     by clicking on which you can see their detailed description and code:
 </i></h2>
-    <h3><i><ul><li>getting data:</li><ul/>
-    <a href="https://github.com/DurinPavel/citylink_parsing#readme" target="_blank">
-    - Obtaining data by parsing the Citylink online store
-    </a><i></h3>
+    <h3>
+        <i>
+            <ul>
+                <li>getting data:</li>
+                <a href="https://github.com/DurinPavel/citylink_parsing#readme" target="_blank">
+                    - Obtaining data by parsing the Citylink online store</a>
+                <li>working with SQL databases:</li>
+            </ul>
+        </i>
+    </h3>
 </b></body>
 
 <!--
