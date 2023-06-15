@@ -77,6 +77,8 @@
                     <a href="https://github.com/DurinPavel/citylink_parsing#readme" target="_blank">
                         - Obtaining data by parsing the Citylink online store</a>
                     <li>working with SQL databases:</li>
+                    <a href="https://github.com/DurinPavel/avia_transportations_sql#readme" target="_blank">
+                        - Getting information from the Air Transportation SQL database</a>
                 </ul>
             </i>
         </h3>
