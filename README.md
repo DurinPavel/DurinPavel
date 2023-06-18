@@ -24,7 +24,8 @@
         </h3>
         <p>
             <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/python.png" alt="Python" height="25"/>
-            <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/postgresql.png" height="25"/>
+            <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/postgresql.png" alt="PostgreSQL" height="25"/>
+            <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/mongodb.png" alt="MongoDB"height="25"/>
             <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/pandas.png" alt="Pandas" height="25"/>
             <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/numpy.png" alt="NumPy" height="25"/>
             <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/scikit_learn.png" alt="Scikit-learn" height="25"/>
