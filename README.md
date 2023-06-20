@@ -57,7 +57,7 @@
                 I have the skills:
                 <ul>
                     <li>obtaining data from open sources, web scraping;</li>
-                    <li>building data frames, data cleaning, data processing using python tools;</li>
+                    <li>building data frames, Big Data, data cleaning, data processing using python tools;</li>
                     <li>working with SQL databases, building queries, as well as creating databases, building schemas, tables, etc.;</li>
                     <li>data visualization using the above;</li>
                     <li>correlation and regression analysis of data, construction and verification of statistical hypotheses, A-B testing;</li>
