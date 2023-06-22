@@ -1,5 +1,7 @@
 <body>
     <b>
+        <a href="https://github.com/DurinPavel/DurinPavel/blob/main/README_EN.md" target="_blank">
+            English version</a>
         <h1 align="center">
             Привет, меня зовут Павел!
             <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/hi.gif" height="32"/>
