@@ -1,6 +1,6 @@
 <body>
     <b>
-        <a href="https://github.com/DurinPavel/DurinPavel/blob/main/README_EN.md" target="_blank">
+        <a href="https://github.com/DurinPavel/DurinPavel/blob/main/README.md" target="_blank">
             Russian version</a>
         <h1 align="center">
             Hi, my name is Pavel!
