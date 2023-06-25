@@ -84,6 +84,8 @@
                     <a href="https://github.com/DurinPavel/avia_transportations_sql#readme" target="_blank">
                         - Получение информации из базы данных SQL «Авиаперевозки»</a>
                     <li>очистка и подготовка данных:</li>
+                    <a href="https://github.com/DurinPavel/horse_colic_database#readme" target="_blank">
+                        - Очистка и подготовка данных из датасета «Horse Colic database»</a>
                 </ul>
             </i>
         </h3>
