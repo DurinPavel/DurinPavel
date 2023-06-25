@@ -83,6 +83,7 @@
                     <li>работа с базами данных SQL:</li>
                     <a href="https://github.com/DurinPavel/avia_transportations_sql#readme" target="_blank">
                         - Получение информации из базы данных SQL «Авиаперевозки»</a>
+                    <li>очистка и подготовка данных:</li>
                 </ul>
             </i>
         </h3>
