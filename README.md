@@ -86,6 +86,7 @@
                     <li>очистка и подготовка данных:</li>
                     <a href="https://github.com/DurinPavel/horse_colic_database#readme" target="_blank">
                         - Очистка и подготовка данных из датасета «Horse Colic database»</a>
+                    <li>анализ данных, построение и проверка статистических гипотез, визуализация:</li>
                 </ul>
             </i>
         </h3>
