@@ -85,6 +85,7 @@
                     <li>working with SQL databases:</li>
                     <a href="https://github.com/DurinPavel/avia_transportations_sql#readme" target="_blank">
                         - Getting information from the Air Transportation SQL database</a>
+                    <li>data analysis, construction and verification of statistical hypotheses, visualization:</li>
                 </ul>
             </i>
         </h3>
