@@ -86,6 +86,8 @@
                     <a href="https://github.com/DurinPavel/avia_transportations_sql#readme" target="_blank">
                         - Getting information from the Air Transportation SQL database</a>
                     <li>data analysis, construction and verification of statistical hypotheses, visualization:</li>
+                    <a href="https://github.com/DurinPavel/critics_and_video_games#readme" target="_blank">
+                        - Building and testing statistical hypotheses based on a set of video game data</a>
                 </ul>
             </i>
         </h3>
