@@ -78,12 +78,12 @@
             <i>
                 <ul>
                     <li>getting data:</li>
-                    <a href="https://github.com/DurinPavel/citylink_parsing#readme" target="_blank">
+                    <a href="https://github.com/DurinPavel/citylink_parsing/blob/main/README_EN.md" target="_blank">
                         - Obtaining data by parsing the Citylink online store</a><br>
-                    <a href="https://github.com/DurinPavel/wildberries_parsing#readme" target="_blank">
+                    <a href="https://github.com/DurinPavel/wildberries_parsing/blob/main/README_EN.md" target="_blank">
                         - Obtaining data by parsing the Wildberries marketplace</a>
                     <li>working with SQL databases:</li>
-                    <a href="https://github.com/DurinPavel/avia_transportations_sql#readme" target="_blank">
+                    <a href="https://github.com/DurinPavel/avia_transportations_sql/blob/main/README_EN.md" target="_blank">
                         - Getting information from the Air Transportation SQL database</a>
                     <li>data analysis, construction and verification of statistical hypotheses, visualization:</li>
                     <a href="https://github.com/DurinPavel/critics_and_video_games/blob/main/README_EN.md" target="_blank">
