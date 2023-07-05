@@ -87,7 +87,7 @@
                     <a href="https://github.com/DurinPavel/horse_colic_database#readme" target="_blank">
                         - Очистка и подготовка данных из датасета «Horse Colic database»</a>
                     <li>анализ данных, построение и проверка статистических гипотез, визуализация:</li>
-                    <a href="https://github.com/DurinPavel/critics_and_video_games#readme" target="_blank">
+                    <a href="https://github.com/DurinPavel/critics_and_video_games#readme_en" target="_blank">
                         - Построение и проверка статистических гипотез на основе набора данных о видеоиграх</a>
                 </ul>
             </i>
