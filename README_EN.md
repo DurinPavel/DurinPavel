@@ -88,6 +88,9 @@
                     <li>data analysis, construction and verification of statistical hypotheses, visualization:</li>
                     <a href="https://github.com/DurinPavel/critics_and_video_games/blob/main/README_EN.md" target="_blank">
                         - Building and testing statistical hypotheses based on a set of video game data</a>
+                    <li>building and evaluating machine learning models:</li>
+                    <a href="https://github.com/DurinPavel/classification_text_messages/blob/main/README_EN.md" target="_blank">
+                        - Building a logistic regression model for the classification of text messages</a>
                 </ul>
             </i>
         </h3>
