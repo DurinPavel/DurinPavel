@@ -90,6 +90,8 @@
                     <a href="https://github.com/DurinPavel/critics_and_video_games#readme" target="_blank">
                         - Построение и проверка статистических гипотез на основе набора данных о видеоиграх</a>
                     <li>построение и оценка моделей машинного обучения:</li>
+                    <a href="https://github.com/DurinPavel/classification_text_messages#readme" target="_blank">
+                        - Построение модели логистической регрессии для классификации текстовых сообщений</a>
                 </ul>
             </i>
         </h3>
