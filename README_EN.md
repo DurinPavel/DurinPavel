@@ -31,6 +31,7 @@
             <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/pandas.png" alt="Pandas" height="25"/>
             <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/numpy.png" alt="NumPy" height="25"/>
             <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/scikit_learn.png" alt="Scikit-learn" height="25"/>
+            <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/scipy.png" alt="SciPy" height="25"/>
             <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/pyspark.png" alt="PySpark" height="25"/>
             <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/beautifulsoup.png" alt="Beautifulsoup" height="25"/>
             <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/selenium.png" alt="Selenium" height="25"/>
