@@ -81,7 +81,7 @@
                 <ul>
                     <li>получение данных:</li>
                     <a href="https://github.com/DurinPavel/citylink_parsing#readme" target="_blank">
-                        - Получение данных путем парсинга интернет-магазина Ситилинк</a><br>
+                        - Получение данных путем парсинга интернет-магазина Ситилинк;</a><br>
                     <a href="https://github.com/DurinPavel/wildberries_parsing#readme" target="_blank">
                         - Получение данных путем парсинга маркетплейса Wildberries</a>
                     <li>работа с базами данных SQL:</li>
@@ -95,7 +95,9 @@
                         - Построение и проверка статистических гипотез на основе набора данных о видеоиграх</a>
                     <li>построение и оценка моделей машинного обучения:</li>
                     <a href="https://github.com/DurinPavel/classification_text_messages#readme" target="_blank">
-                        - Построение модели логистической регрессии для классификации текстовых сообщений</a>
+                        - Построение модели логистической регрессии для классификации текстовых сообщений;</a><br>
+                    <a href="https://github.com/DurinPavel/correlation_analysis_mortality_and_water#readme" target="_blank">
+                        - Проведение корреляционного анализа взаимосвязи между жёсткостью воды и средней годовой смертностью</a>
                 </ul>
             </i>
         </h3>
