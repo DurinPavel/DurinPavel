@@ -54,6 +54,7 @@
             <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/anaconda.png" alt="Anaconda" height="25"/>
             <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/tableau.png" alt="Tableau" height="25"/>
             <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/power_bi.png" alt="Power BI" height="25"/>
+            <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/datalens.png" alt="DataLens" height="25"/>
             <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/knime.png" alt="Knime" height="25"/>
         </p>
         <h3>
