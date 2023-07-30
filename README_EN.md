@@ -82,7 +82,7 @@
                 <ul>
                     <li>getting data:</li>
                     <a href="https://github.com/DurinPavel/citylink_parsing/blob/main/README_EN.md" target="_blank">
-                        - Obtaining data by parsing the Citylink online store</a><br>
+                        - Obtaining data by parsing the Citylink online store;</a><br>
                     <a href="https://github.com/DurinPavel/wildberries_parsing/blob/main/README_EN.md" target="_blank">
                         - Obtaining data by parsing the Wildberries marketplace</a>
                     <li>working with SQL databases:</li>
@@ -93,7 +93,9 @@
                         - Building and testing statistical hypotheses based on a set of video game data</a>
                     <li>building and evaluating machine learning models:</li>
                     <a href="https://github.com/DurinPavel/classification_text_messages/blob/main/README_EN.md" target="_blank">
-                        - Building a logistic regression model for the classification of text messages</a>
+                        - Building a logistic regression model for the classification of text messages;</a><br>
+                    <a href="https://github.com/DurinPavel/correlation_analysis_mortality_and_water/blob/main/README_EN.md" target="_blank">
+                        - Conducting a correlation analysis of the relationship between water hardness and average annual mortality</a>
                 </ul>
             </i>
         </h3>
