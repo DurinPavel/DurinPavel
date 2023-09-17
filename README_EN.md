@@ -8,9 +8,8 @@
         </h1>
         <h2 align="justify">
             <i>
-                For almost 20 years I have been engaged in analytics in the field of budget accounting, 
-                internal control and internal financial audit. I decided to change my occupation and develop 
-                in a new direction that allows you to use the accumulated professional experience in
+                I am engaged in analytics in the field of budget accounting, internal control and internal financial audit.
+                I decided to change my occupation and develop in a new direction that allows you to use the accumulated professional experience in
                 combined with advanced technologies. Now I am studying in Netology (Russia) according to the program 
                 professional retraining, in the specialty "Data Scientist: from scratch to middle"
             </i>
