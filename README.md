@@ -98,7 +98,9 @@
                     <a href="https://github.com/DurinPavel/classification_text_messages#readme" target="_blank">
                         - Построение модели логистической регрессии для классификации текстовых сообщений;</a><br>
                     <a href="https://github.com/DurinPavel/correlation_analysis_mortality_and_water#readme" target="_blank">
-                        - Проведение корреляционного анализа взаимосвязи между жёсткостью воды и средней годовой смертностью</a>
+                        - Проведение корреляционного анализа взаимосвязи между жёсткостью воды и средней годовой смертностью;</a><br>
+                    <a href="https://github.com/DurinPavel/movie_recommendation_system#readme" target="_blank">
+                        - Построение системы рекомендаций фильмов пользователям с использованием возможностей библиотеки LightFM</a>
                 </ul>
             </i>
         </h3>
