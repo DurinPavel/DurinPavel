@@ -96,7 +96,7 @@
                         - Building a logistic regression model for the classification of text messages;</a><br>
                     <a href="https://github.com/DurinPavel/correlation_analysis_mortality_and_water/blob/main/README_EN.md" target="_blank">
                         - Conducting a correlation analysis of the relationship between water hardness and average annual mortality;</a><br>
-                    <a href="https://github.com/DurinPavel/movie_recommendation_system#readme" target="_blank">
+                    <a href="https://github.com/DurinPavel/movie_recommendation_system/blob/main/README_EN.md" target="_blank">
                         - Building a system of movie recommendations to users using the capabilities of the LightFM library</a>
                 </ul>
             </i>
