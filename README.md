@@ -37,6 +37,7 @@
             <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/selenium.png" alt="Selenium" height="25"/>
             <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/matplotlib.png" alt="Matplotlib" height="25"/>
             <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/seaborn.png" alt="Seaborn" height="25"/>
+            <img src="https://github.com/DurinPavel/DurinPavel/blob/main/images/lightfm.png" alt="LightFM" height="25"/>
         </p>
         <h3>
             <i>
